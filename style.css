@@ -1,0 +1,9 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Nunito", sans-serif;
+  font-size: 3.5rem;
+  padding: 0 2rem;
+}
