@@ -1,9 +1,9 @@
 new TypeIt('#type', {
   strings: [
-  "Somewhere over the rainbow, way up high",
-  "And the dreams that you dream of, once in a lullaby",
-  "Somewhere over the rainbow, blue birds fly",
-  "And the dreams that you dream of, dreams really do come true..."],
+  "For you :))",
+  "It's your day...",
+  "Wish it is filled with joy",
+  "..........."],
 
   breakLines: true,
   loop: false,
